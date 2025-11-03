@@ -1,9 +1,11 @@
+import Navbar from "@/components/Navbar/Navbar";
 
 
 export default function app() {
   return (
-    <div className="underline">
-hiiii
+    <div className="">
+
+<Navbar />
     </div>
   );
 }
