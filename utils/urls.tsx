@@ -1,0 +1,1 @@
+export const SmsURL = "https://api.sms.ir/v1/send/verify"

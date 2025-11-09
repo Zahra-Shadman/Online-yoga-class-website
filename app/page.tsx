@@ -1,11 +1,16 @@
-import Navbar from "@/components/Navbar/Navbar";
+'use clinet';
+
+import Banner from "@/components/banner";
+
+
 
 
 export default function app() {
   return (
     <div className="">
-
-<Navbar />
+    <div>
+      <Banner />
+    </div>
     </div>
   );
 }
